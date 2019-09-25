@@ -4,6 +4,10 @@ This is the example code for my book https://www.manning.com/books/microservice-
 
 image::http://microservices.io/i/Microservices-Patterns-Cover.png[width=50%]
 
+== Example Application
+
+This is an application for a food delivery service called FTGO(Food To GO)
+
 == Please note
 
 * The code is still work in progress
